@@ -1,0 +1,24 @@
+{
+  "name": "asicncronismo_js",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismo",
+  "main": "\u001b[A\u001b[B\u0002",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "async": "node src/async/index.js",
+    "async:challenge": "node src/async/challenge.js",
+    "promises": "node src/promises/promises.js",
+    "promises:challenge": "node src/promises/challenge.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promises",
+    "Async\u001b[D\u001b[D\u001b[D\u001b[a"
+  ],
+  "author": "Juan Jose Pelaez <juanhernandez.code@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
